@@ -1,0 +1,2 @@
+I acknowledge that the submitted work is my own original work in accordance with the University of Auckland guidelines and policies on academic integrity and copyright.
+I also acknowledge that I have appropriate permission to use the data that I have utilised in this project. This includes permission to upload the data file to Canvas. The University of Auckland bears no responsibility for the student's misuse of data.
